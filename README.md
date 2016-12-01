@@ -1,7 +1,6 @@
 # Bustle-clone
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This project is an excerise in using Ember.js to create a clone of the website www.bustle.com
 
 ## Specs
 
